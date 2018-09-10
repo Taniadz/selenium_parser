@@ -2,6 +2,8 @@ from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.support.ui import WebDriverWait
 from parsing_helpers import *
+from selenium.common.exceptions import NoSuchElementException
+
 import json
 
 

@@ -1,6 +1,6 @@
-from selenium.common.exceptions import NoSuchElementException
 
 
+# get available sizes for current color
 def get_sizes(driver):
     available_sizes = []
     sizes_labels = driver.find_elements_by_css_selector("label.product__radio[data-analytics-title='product_size']")
