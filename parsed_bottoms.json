@@ -1,0 +1,1839 @@
+{
+    "Suzy Shier Belted Denim Skirt": {
+        "color": {
+            "Dk Denim Blue": [
+                "X-Small",
+                "Small",
+                "Medium",
+                "Large",
+                "X-Large"
+            ]
+        },
+        "description": "This sleek, jean skirt comes ready with a d-ring belt, so all you need are your cute camis and tees for a cool, summer look.",
+        "price": 36.0,
+        "spec": [
+            "Model's Size: XS",
+            "Model's Height: 5'10\"",
+            "70% cotton, 28% polyester, 2% spandex",
+            " Machine wash in cold water, hang to dry",
+            "Do not bleach"
+        ]
+    },
+    "Suzy Shier Belted Glencheck Crepe Ankle Pants": {
+        "color": {
+            "Grey": [
+                "X-Small",
+                "Small",
+                "Medium",
+                "Large",
+                "X-Large"
+            ]
+        },
+        "description": "Get out your classy heels and flaunt the stylish fit of these belted ankle pants in an elegant glencheck print.",
+        "price": 39.0,
+        "spec": [
+            "Model's Size: XS",
+            "Model's Height: 5'10\"",
+            " 95% polyester, 5% spandex",
+            " Machine wash in cold water, hang to dry",
+            "Do not bleach."
+        ]
+    },
+    "Suzy Shier Belted Houndstooth Skinny Knit Pants": {
+        "color": {
+            "Black": [
+                "X-Small",
+                "Small",
+                "Medium",
+                "Large",
+                "X-Large"
+            ]
+        },
+        "description": "Class up your bottoms with the chic houndstooth print in these elegant, belted knit skinny pants.",
+        "price": 30.0,
+        "spec": [
+            "Model's Size: XS",
+            "Model's Height: 5'10\"",
+            "85% polyester, 12% rayon, 3% spandex",
+            " Hand wash in cold water, hang to dry",
+            "Do not bleach"
+        ]
+    },
+    "Suzy Shier Belted Pull-on Skinny Pants": {
+        "color": {
+            "Black": [
+                "X-Small",
+                "Small",
+                "Medium",
+                "Large"
+            ]
+        },
+        "description": "Time to tuck in your stylish tops to show off the belted waist of these flattering pull-on skinny pants.",
+        "price": 36.0,
+        "spec": [
+            "Model's Size: XS",
+            "Model's Height: 5'10\"",
+            " 68% rayon, 27% nylon, 5% spandex",
+            " Machine wash in cold water, hang to dry",
+            "Do not bleach."
+        ]
+    },
+    "Suzy Shier Bird's Eye Pull-on Skinny Pants": {
+        "color": {
+            "Black": [
+                "X-Small",
+                "Small",
+                "Medium",
+                "Large",
+                "X-Large"
+            ]
+        },
+        "description": "Let your legs loose in the trendy, bird's eye print of these flattering, pull-on skinny pants.",
+        "price": 19.99,
+        "spec": [
+            "Model's Size: XS",
+            "Model's Height: 5'10\"",
+            " 95% polyester, 5% spandex",
+            " Hand wash in cold water, hang to dry",
+            "Do not bleach."
+        ]
+    },
+    "Suzy Shier Buffalo Plaid Brushed Leggings": {
+        "color": {
+            "Mars Red": [
+                "X-Small",
+                "Small",
+                "Medium",
+                "Large"
+            ]
+        },
+        "description": "You love plaid on top, and you'll love it just as much on bottom in these bold, buffalo plaid brushed leggings.",
+        "price": 18.0,
+        "spec": [
+            "Model's Size: XS",
+            "Model's Height: 5'10\"",
+            "92% polyester, 8% spandex",
+            " Machine wash in cold water, hang to dry",
+            "Do not bleach"
+        ]
+    },
+    "Suzy Shier Camouflage Leggings": {
+        "color": {
+            "Dk Green": [
+                "X-Small",
+                "Small",
+                "Medium",
+                "Large",
+                "X-Large"
+            ]
+        },
+        "description": "Let your edgy side shine through in these cool, camouflage print leggings.",
+        "price": 24.0,
+        "spec": [
+            "Model's Size: XS",
+            "Model's Height: 5'10\"",
+            "47% cotton, 47% polyester, 6% spandex",
+            " Machine wash in cold water, hang to dry",
+            "Do not bleach"
+        ]
+    },
+    "Suzy Shier Cargo Skinny Pants": {
+        "color": {
+            "Black": [
+                "3",
+                "5",
+                "7",
+                "9",
+                "11",
+                "13",
+                "15"
+            ],
+            "Dk Green": [
+                "7",
+                "11",
+                "13",
+                "15"
+            ]
+        },
+        "description": "Enhance your edgy vibe with these flattering skinny pants featuring trendy cargo pockets.",
+        "price": 42.0,
+        "spec": [
+            "Model's Size: XS",
+            "Model's Height: 5'10\"",
+            "73% cotton, 25% polyester, 2% spandex",
+            " Machine wash in cold water, hang to dry",
+            "Do not bleach."
+        ]
+    },
+    "Suzy Shier Chevron Pull-on Skinny Pants with Side Stripe": {
+        "color": {
+            "Black": [
+                "X-Small",
+                "Small",
+                "Medium",
+                "Large",
+                "X-Large"
+            ]
+        },
+        "description": "Update your look with these cool skinnies featuring a trendy chevron print with solid side stripes.",
+        "price": 30.0,
+        "spec": [
+            "Model's Size: XS",
+            "Model's Height: 5'10\"",
+            "95% polyester, 5% spandex",
+            "Side Bands: 69% rayon, 27% nylon, 4% spandex",
+            " Hand wash in cold water, hang to dry",
+            "Do not bleach"
+        ]
+    },
+    "Suzy Shier Chevron Sweater Knit Flippy Skirt": {
+        "color": {
+            "Black": [
+                "Small",
+                "Medium",
+                "Large"
+            ]
+        },
+        "description": "The flattering flippy design gives this chevron print, sweater knit skirt a flirty, feminine feel.",
+        "price": 29.0,
+        "spec": [
+            "Model's Size: XS",
+            "Model's Height: 5'10\"",
+            "80% viscose, 20% polyester",
+            " Hand wash in cold water, hang to dry",
+            "Do not bleach"
+        ]
+    },
+    "Suzy Shier Chino Pants with Side Taping": {
+        "color": {
+            "Ivy": [
+                "1",
+                "3",
+                "5",
+                "7",
+                "9",
+                "11",
+                "13",
+                "15"
+            ]
+        },
+        "description": "Your go-to chinos are now that much cooler with the side taping on this trendy design.",
+        "price": 42.0,
+        "spec": [
+            "Model's Size: 3",
+            "Model's Height: 5'10\"",
+            "98% cotton, 2% spandex",
+            "Machine wash in cold water, hang to dry",
+            "Do not bleach"
+        ]
+    },
+    "Suzy Shier Coated Wide Waisted Leggings": {
+        "color": {
+            "Black": [
+                "X-Small",
+                "Small",
+                "Medium",
+                "Large",
+                "X-Large"
+            ]
+        },
+        "description": "These coated leggings will give you a sleek look and a flattering fit due to their comfy wide waist.",
+        "price": 24.0,
+        "spec": [
+            "Model's Size: XS",
+            "Model's Height: 5'10\"",
+            "95% polyester, 5% spandex",
+            " Machine wash in cold water, hang to dry",
+            "Do not bleach"
+        ]
+    },
+    "Suzy Shier Crepe Joggers with Side Stripes": {
+        "color": {
+            "Black": [
+                "X-Small",
+                "Small",
+                "Medium",
+                "Large",
+                "X-Large"
+            ]
+        },
+        "description": "We love the revival of everything retro, including these cool joggers featuring bold, red side stripes.",
+        "price": 36.0,
+        "spec": [
+            "Model's Size: XS",
+            "Model's Height: 5'10\"",
+            "95% polyester, 5% spandex",
+            " Machine wash in cold water, hang to dry",
+            "Do not bleach"
+        ]
+    },
+    "Suzy Shier Crepe Joggers with Side Taping and Zip Pockets": {
+        "color": {
+            "Black": [
+                "X-Small",
+                "Small",
+                "Medium",
+                "Large",
+                "X-Large"
+            ]
+        },
+        "description": "We love the revival of everything retro, including these cool joggers featuring side taping, wide legs and trendy zip pockets.",
+        "price": 36.0,
+        "spec": [
+            "Model's Size: XS",
+            "Model's Height: 5'10\"",
+            "95% polyester, 5% spandex",
+            " Machine wash in cold water, hang to dry",
+            "Do not bleach"
+        ]
+    },
+    "Suzy Shier Cropped Pull-on Pants with Contrast Side Band": {
+        "color": {
+            "Black": [
+                "X-Small",
+                "Small",
+                "Medium",
+                "Large",
+                "X-Large"
+            ]
+        },
+        "description": "Create a trendy look with these hot, cropped pants, featuring a retro side band on each leg.",
+        "price": 36.0,
+        "spec": [
+            "Model's Size: XS",
+            "Model's Height: 5'10\"",
+            " 63% polyester, 34% rayon, 3% spandex",
+            " Hand wash in cold water, hang to dry",
+            "Do not bleach."
+        ]
+    },
+    "Suzy Shier Diamond Skinny Pants with Vertical Zips": {
+        "color": {
+            "Black": [
+                "X-Small",
+                "Small",
+                "Medium",
+                "Large",
+                "X-Large"
+            ]
+        },
+        "description": "If diamonds really are your best friend, then flaunt them on these chic pull-on skinny pants, featuring edgy vertical zip detailing.",
+        "price": 30.0,
+        "spec": [
+            "Model's Size: XS",
+            "Model's Height: 5'10\"",
+            "85% polyester, 12% rayon, 3% spandex",
+            " Hand wash in cold water, hang to dry",
+            "Do not bleach"
+        ]
+    },
+    "Suzy Shier Dotted Scuba Skinny Pants": {
+        "color": {
+            "Black": [
+                "X-Small",
+                "Small",
+                "Medium",
+                "Large"
+            ]
+        },
+        "description": "You'll get an instantly sleek look when you rock these scuba skinny pants with a chic mini dotted print.",
+        "price": 19.99,
+        "spec": [
+            "Model's Size: XS",
+            "Model's Height: 5'10\"",
+            "95% polyester, 5% spandex",
+            " Machine wash inside out in cold water, hang to dry",
+            "Do not bleach"
+        ]
+    },
+    "Suzy Shier Elastic Waist Skirt with Printed Lace Overlay": {
+        "color": {
+            "Black": [
+                "X-Small",
+                "Small",
+                "Medium",
+                "Large",
+                "X-Large"
+            ]
+        },
+        "description": "This sweet skirt has a comfy wide elastic waistband and back zip, but it will also give you a romantically feminine vibe every time you twirl, with its flirty printed lace overlay.",
+        "price": 38.0,
+        "spec": [
+            "Model's Size: XS",
+            "Model's Height: 5'10\"",
+            "100% polyester",
+            "Lining: 95% polyester, 5% elastane",
+            " Hand wash in cold water, hang to dry",
+            "Do not bleach"
+        ]
+    },
+    "Suzy Shier Faux Leather Pencil Skirt with Side Stripes": {
+        "color": {
+            "Black": [
+                "X-Small",
+                "Small",
+                "Medium",
+                "Large",
+                "X-Large"
+            ]
+        },
+        "description": "We've taken the best that menswear has to offer to inspire this edgy, faux leather pencil skirt, with trendy side stripes to create a fierce silhouette.",
+        "price": 36.0,
+        "spec": [
+            "Model's Size: XS",
+            "Model's Height: 5'10\"",
+            "100% polyurethane",
+            "Stripes: 84% polyester, 14% rayon, 2% spandex",
+            "Combo: 95% polyester, 5% spandex ",
+            " Hand wash in cold water, hang to dry",
+            "Do not bleach"
+        ]
+    },
+    "Suzy Shier Faux Suede Pencil Skirt with Exposed Back Zipper": {
+        "color": {
+            "Dynasty": [
+                "X-Small",
+                "Small",
+                "Medium",
+                "Large",
+                "X-Large"
+            ]
+        },
+        "description": "Your sleek pencil skirt is that much classier in chic faux suede with no waistband and a sexy exposed back zipper.",
+        "price": 19.99,
+        "spec": [
+            "Model's Size: XS",
+            "Model's Height: 5'10\"",
+            "95% polyester, 5% spandex",
+            " Machine wash in cold water, hang to dry",
+            "Do not bleach"
+        ]
+    },
+    "Suzy Shier Faux Suede Skinny Pants": {
+        "color": {
+            "In The Buff": [
+                "X-Small",
+                "Small",
+                "Medium",
+                "Large",
+                "X-Large"
+            ]
+        },
+        "description": "Get your chic on by simply opting for these classy faux suede skinny pants, with a side zip and inner elastic waistband, instead of your jeans.",
+        "price": 24.99,
+        "spec": [
+            "Model's Size: XS",
+            "Model's Height: 5'10\"",
+            "97% polyester, 3% spandex",
+            " Machine wash in cold water, hang to dry",
+            "Do not bleach"
+        ]
+    },
+    "Suzy Shier Fleece Lined Houndstooth Leggings": {
+        "color": {
+            "Grey": [
+                "S/M",
+                "L/XL"
+            ]
+        },
+        "description": "Keep your love of leggings going on all winter with the cozy, fleece lined design of these stylish houndstooth leggings.",
+        "price": 18.0,
+        "spec": [
+            "Model's Size: XS",
+            "Model's Height: 5'10\"",
+            "92% polyester, 8% spandex",
+            " Machine wash in cold water, hang to dry",
+            "Do not bleach"
+        ]
+    },
+    "Suzy Shier Fleece Lined Jogger Leggings": {
+        "color": {
+            "Black": [
+                "S/M",
+                "L/XL"
+            ]
+        },
+        "description": "The cool look of joggers mixes with the sleek fit of leggings in this comfy, fleece lined design.",
+        "price": 24.0,
+        "spec": [
+            "Model's Size: XS",
+            "Model's Height: 5'10\"",
+            "92% polyester, 8% spandex",
+            " Machine wash in cold water, hang to dry",
+            "Do not bleach"
+        ]
+    },
+    "Suzy Shier Floral Leggings": {
+        "color": {
+            "Black": [
+                "X-Small",
+                "Small",
+                "Medium"
+            ]
+        },
+        "description": "Treat your legs to some well-deserved flowers in these bold, floral leggings.",
+        "price": 18.0,
+        "spec": [
+            "Model's Size: XS",
+            "Model's Height: 5'10\"",
+            "92% polyester, 8% spandex",
+            " Machine wash in cold water, hang to dry",
+            "Do not bleach"
+        ]
+    },
+    "Suzy Shier Floral Pull-on Skirt with Back Slit": {
+        "color": {
+            "Black": [
+                "X-Small",
+                "Small",
+                "Medium"
+            ]
+        },
+        "description": "Our fresh flowers have traveled down your outfit to adorn this sleek crepe pull-on skirt with a back slit in the summer florals you love.",
+        "price": 12.95,
+        "spec": [
+            "Model's Size: XS",
+            "Model's Height: 5'10\"",
+            " 95% polyester, 5% spandex ",
+            " Machine wash in cold water, hang to dry",
+            "Do not bleach"
+        ]
+    },
+    "Suzy Shier Gingham Pull-on Skirt with Asymmetrical Flounce": {
+        "color": {
+            "Black": [
+                "X-Small",
+                "Small",
+                "Medium",
+                "Large",
+                "X-Large"
+            ]
+        },
+        "description": "The flirty asymmetrical flounce on this knit, pull-on skirt adds a whimsical flair to a classic gingham print.",
+        "price": 19.95,
+        "spec": [
+            "Model's Size: XS",
+            "Model's Height: 5'10\"",
+            "58% rayon, 38% polyester, 4% spandex",
+            " Machine wash in cold water, hang to dry",
+            "Do not bleach"
+        ]
+    },
+    "Suzy Shier Glen Plaid Pull-on Pants with Zipper Detailing": {
+        "color": {
+            "Black": [
+                "X-Small",
+                "Small",
+                "Medium",
+                "Large",
+                "X-Large"
+            ]
+        },
+        "description": "The trendy glen plaid print and vertical zipper detailing make these pull-on summer pants a perfect choice.",
+        "price": 19.99,
+        "spec": [
+            "Model's Size: XS",
+            "Model's Height: 5'10\"",
+            "70% rayon, 27% nylon, 3% spandex",
+            " Machine wash in cold water, hang to dry",
+            "Do not bleach"
+        ]
+    },
+    "Suzy Shier Glencheck Pants with Red Side Stripes": {
+        "color": {
+            "Charcoal": [
+                "X-Small",
+                "Small",
+                "Medium",
+                "Large",
+                "X-Large"
+            ]
+        },
+        "description": "We love the bold red side stripes accented against the classic glencheck print on these elastic waist pants, and so will you!",
+        "price": 39.0,
+        "spec": [
+            "Model's Size: XS",
+            "Model's Height: 5'10\"",
+            "95% polyester, 5% spandex ",
+            " Machine wash in cold water, hang to dry",
+            "Do not bleach"
+        ]
+    },
+    "Suzy Shier Glencheck Pull-on Skinny Pants": {
+        "color": {
+            "Black": [
+                "X-Small",
+                "Small",
+                "Medium",
+                "Large",
+                "X-Large"
+            ]
+        },
+        "description": "Let your legs loose in the chic, glencheck print of these flattering, pull-on skinny pants.",
+        "price": 19.99,
+        "spec": [
+            "Model's Size: XS",
+            "Model's Height: 5'10\"",
+            " 95% polyester, 5% spandex",
+            " Hand wash in cold water, hang to dry",
+            "Do not bleach."
+        ]
+    },
+    "Suzy Shier Grid Pattern Brushed Leggings": {
+        "color": {
+            "Black": [
+                "X-Small",
+                "Small",
+                "Medium",
+                "Large",
+                "X-Large"
+            ]
+        },
+        "description": "Stray from your solids and mix it up a bit with the chic grid pattern on these trendy, brushed leggings.",
+        "price": 18.0,
+        "spec": [
+            "Model's Size: XS",
+            "Model's Height: 5'10\"",
+            "92% polyester, 8% spandex",
+            " Machine wash in cold water, hang to dry",
+            "Do not bleach"
+        ]
+    },
+    "Suzy Shier Herringbone Pull-on Skinny Pants": {
+        "color": {
+            "Black": [
+                "X-Small",
+                "Small",
+                "Medium",
+                "Large"
+            ]
+        },
+        "description": "Let your legs loose in the classy herringbone print of these flattering, pull-on skinny pants.",
+        "price": 19.99,
+        "spec": [
+            "Model's Size: XS",
+            "Model's Height: 5'10\"",
+            " 95% polyester, 5% spandex",
+            " Hand wash in cold water, hang to dry",
+            "Do not bleach."
+        ]
+    },
+    "Suzy Shier High Rise Skinny Jeans": {
+        "color": {
+            "Dk Denim Blasted": [
+                "1",
+                "3"
+            ]
+        },
+        "description": "When you want your skinny jeans to work for you, this classic 5 pocket design with a flattering high waist will do the job.",
+        "price": 39.0,
+        "spec": [
+            "Model's Size: 3",
+            "Model's Height: 5'10\"",
+            "92% cotton, 6% polyester, 2% spandex",
+            "Machine wash in cold water, hang to dry",
+            "Do not bleach."
+        ]
+    },
+    "Suzy Shier High Rise Skinny Jeans with Side Taping": {
+        "color": {
+            "Dk Denim Blasted": [
+                "1",
+                "5",
+                "7",
+                "9",
+                "11",
+                "13"
+            ]
+        },
+        "description": "These flattering skinny jeans give you a cool, retro feel with their high rise fit and contast side taping.",
+        "price": 49.0,
+        "spec": [
+            "Model's Size: 3",
+            "Model's Height: 5'10\"",
+            "64% cotton, 32% polyester, 2% rayon, 2% spandex",
+            "Machine wash in cold water, hang to dry",
+            "Do not bleach"
+        ]
+    },
+    "Suzy Shier High Waist Seamless Leggings": {
+        "color": {
+            "Black": [
+                "Medium",
+                "Large"
+            ],
+            "Stellar": [
+                "Small",
+                "Medium",
+                "Large"
+            ]
+        },
+        "description": "Combine a seamless fit with a flattering physique in these comfy leggings. The high waist will accent your silhouette and keep you feeling stylish throughout your day.",
+        "price": 9.99,
+        "spec": [
+            "Model's Size: XS",
+            "Model's Height: 5'10\"",
+            "92% nylon, 8% spandex",
+            " Machine wash in cold water, hang to dry",
+            "Do not bleach"
+        ]
+    },
+    "Suzy Shier High Waisted Wide Leg Pants with Button Detail": {
+        "color": {
+            "Beeswax": [
+                "X-Small",
+                "Small",
+                "Medium",
+                "Large"
+            ],
+            "Black": [
+                "X-Small",
+                "Small",
+                "Medium"
+            ]
+        },
+        "description": "These chic, high waisted pants are designed to give you a flattering, feminine physique, while the button detailing and wide legs keep them trendy.",
+        "price": 36.0,
+        "spec": [
+            "Model's Size: XS",
+            "Model's Height: 5'10\"",
+            "95% polyester, 5% spandex",
+            " Machine wash in cold water inside out, hang to dry",
+            "Do not bleach"
+        ]
+    },
+    "Suzy Shier Leggings with 4-stripe Detail": {
+        "color": {
+            "Black": [
+                "S/M",
+                "L/XL"
+            ],
+            "Grey": [
+                "S/M",
+                "L/XL"
+            ]
+        },
+        "description": "Create a cool, retro vibe with these throwback leggings, featuring stripe detailing on the side of each leg.",
+        "price": 12.99,
+        "spec": [
+            "Model's Size: S/M",
+            "Model's Height: 5'10\"",
+            " 92% polyester, 8% spandex",
+            " Machine wash in cold water, hang to dry",
+            "Do not bleach."
+        ]
+    },
+    "Suzy Shier Leggings with Front Tie": {
+        "color": {
+            "Grey": [
+                "X-Small",
+                "Small",
+                "Medium",
+                "Large",
+                "X-Large"
+            ]
+        },
+        "description": "Your leggings create a much trendier, athleisure outfit with the cool front tie on this design.",
+        "price": 26.0,
+        "spec": [
+            "Model's Size: XS",
+            "Model's Height: 5'10\"",
+            "95% polyester, 5% spandex",
+            " Machine wash in cold water, hang to dry",
+            "Do not bleach"
+        ]
+    },
+    "Suzy Shier Leopard Print Leggings": {
+        "color": {
+            "Camel": [
+                "X-Small",
+                "Small",
+                "Medium",
+                "Large",
+                "X-Large"
+            ]
+        },
+        "description": "Why should your tops get all the fun when these hot, leopard print leggings deserve everyone's attention?",
+        "price": 18.0,
+        "spec": [
+            "Model's Size: XS",
+            "Model's Height: 5'10\"",
+            "92% polyester, 8% spandex",
+            " Machine wash in cold water, hang to dry",
+            "Do not bleach"
+        ]
+    },
+    "Suzy Shier Metallic Embroidered Skinny Jeans": {
+        "color": {
+            "Bk Denim Blasted": [
+                "1",
+                "5",
+                "7",
+                "9",
+                "11",
+                "13"
+            ]
+        },
+        "description": "Skinny jeans are here to stay, so update your collection with this pair featuring metallic embroidery.",
+        "price": 45.0,
+        "spec": [
+            "Model's Size: XS",
+            "Model's Height: 5'10\"",
+            " 73% cotton, 25% polyester, 2% spandex ",
+            " Machine wash inside out in cold water, hang to dry",
+            "Do not bleach"
+        ]
+    },
+    "Suzy Shier Navajo Print Leggings": {
+        "color": {
+            "Merlot": [
+                "S/M",
+                "L/XL"
+            ]
+        },
+        "description": "Give your legs some color and get trendy in these cool, navajo print knit leggings.",
+        "price": 18.0,
+        "spec": [
+            "Model's Size: S/M ",
+            "Model's Height: 5'10\"",
+            "92% polyester, 8% spandex",
+            " Machine wash in cold water, hang to dry",
+            "Do not bleach"
+        ]
+    },
+    "Suzy Shier Navajo Printed Leggings": {
+        "color": {
+            "Rumba Red": [
+                "X-Small",
+                "Small",
+                "Medium",
+                "Large",
+                "X-Large"
+            ]
+        },
+        "description": "Give your leggings a trendy western twist with the cool Navajo print on this design.",
+        "price": 18.0,
+        "spec": [
+            "Model's Size: XS",
+            "Model's Height: 5'10\"",
+            "92% polyester, 8% spandex",
+            " Machine wash in cold water, hang to dry",
+            "Do not bleach"
+        ]
+    },
+    "Suzy Shier Pearl Destructed Skinny Jeans with Frayed Hems": {
+        "color": {
+            "Md Denim Blasted": [
+                "1",
+                "3",
+                "5",
+                "7",
+                "9",
+                "11"
+            ]
+        },
+        "description": "Your pearls may look great at your neck, but they look even better on these destructed skinny jeans with trendy, frayed hems.",
+        "price": 45.0,
+        "spec": [
+            "Model's Size: XS",
+            "Model's Height: 5'10\"",
+            "98% cotton, 2% spandex",
+            " Machine wash in cold water, hang to dry",
+            "Do not bleach"
+        ]
+    },
+    "Suzy Shier Plaid Brushed Leggings": {
+        "color": {
+            "Black": [
+                "X-Small",
+                "Small",
+                "Medium",
+                "Large",
+                "X-Large"
+            ]
+        },
+        "description": "You love plaid on top, and you'll love it just as much on bottom in these cool, plaid brushed leggings.",
+        "price": 18.0,
+        "spec": [
+            "Model's Size: XS",
+            "Model's Height: 5'10\"",
+            "92% polyester, 8% spandex",
+            " Machine wash in cold water, hang to dry",
+            "Do not bleach"
+        ]
+    },
+    "Suzy Shier Plaid Sweater Knit Flippy Skirt": {
+        "color": {
+            "Black": [
+                "Small",
+                "Medium",
+                "Large"
+            ]
+        },
+        "description": "A classic plaid skirt is always in style, especially in this cute flippy design in a comfy sweater knit.",
+        "price": 29.0,
+        "spec": [
+            "Model's Size: XS",
+            "Model's Height: 5'10\"",
+            "80% viscose, 20% polyester",
+            " Hand wash in cold water, hang to dry",
+            "Do not bleach"
+        ]
+    },
+    "Suzy Shier Pleated Pull-on Pants": {
+        "color": {
+            "Black": [
+                "X-Small",
+                "Small",
+                "Medium",
+                "Large",
+                "X-Large"
+            ]
+        },
+        "description": "Create a trendy look with these chic pants with flattering front pleats and an elastic waist which can easily be dressed up for work or down for play.",
+        "price": 34.0,
+        "spec": [
+            "Model's Size: XS",
+            "Model's Height: 5'10\"",
+            " 63% polyester, 34% rayon, 4% spandex",
+            " Hand wash in cold water, hang to dry",
+            "Do not bleach."
+        ]
+    },
+    "Suzy Shier Polar Fleece Star Print Pajama Pants": {
+        "color": {
+            "Fawn": [
+                "X-Small",
+                "Small",
+                "Medium",
+                "Large",
+                "X-Large"
+            ]
+        },
+        "description": "Who doesn't love getting cuddly? It's now that much easier in these soft and cozy polar fleece pajama pants in a dreamy star print.",
+        "price": 18.0,
+        "spec": [
+            "Model's Size: XS",
+            "Model's Height: 5'10\"",
+            "100% polyester",
+            " Hand wash in cold water, hang to dry",
+            "Do not bleach"
+        ]
+    },
+    "Suzy Shier Polka Dot Faux Wrap Skirt with Ruffles": {
+        "color": {
+            "Black": [
+                "X-Small",
+                "Small",
+                "Medium",
+                "Large",
+                "X-Large"
+            ]
+        },
+        "description": "With a pop of polka dots and trendy ruffle detailing, you'll love the versatility of this flattering, faux wrap skirt.",
+        "price": 19.95,
+        "spec": [
+            "Model's Size: XS",
+            "Model's Height: 5'10\"",
+            "100% viscose",
+            "Lining: 100% viscose",
+            " Hand wash in cold water, hang to dry",
+            "Do not bleach"
+        ]
+    },
+    "Suzy Shier Polka Dot Pull-on Midi Skirt with Flared Hem": {
+        "color": {
+            "Black": [
+                "X-Small",
+                "Small",
+                "Medium"
+            ]
+        },
+        "description": "We love the midi length this season for a classy look, so flaunt it in this chic polka dotted skirt with a fun, flared bottom hem.",
+        "price": 29.95,
+        "spec": [
+            "Model's Size: XS",
+            "Model's Height: 5'10\"",
+            "95% polyester, 5% spandex",
+            "Lining: 100% polyester",
+            " Hand wash in cold water, hang to dry",
+            "Do not bleach"
+        ]
+    },
+    "Suzy Shier Printed Scuba Midi Pencil Skirt with Lace-up Detail": {
+        "color": {
+            "Black": [
+                "X-Small",
+                "Small"
+            ]
+        },
+        "description": "Take your sexy pencil skirt to the next level with the trendy lace-up detailing on this flirty midi design.",
+        "price": 14.99,
+        "spec": [
+            "Model's Size: XS",
+            "Model's Height: 5'10\"",
+            "95% polyester, 5% spandex",
+            " Machine wash in cold water, hang to dry",
+            "Do not bleach"
+        ]
+    },
+    "Suzy Shier Printed Sweater Knit Flippy Skirt": {
+        "color": {
+            "Black": [
+                "Small",
+                "Medium",
+                "Large"
+            ]
+        },
+        "description": "You'll love pairing this chic, printed flippy skirt in a comfy sweater knit, with all your favorite sweaters and booties.",
+        "price": 29.0,
+        "spec": [
+            "Model's Size: XS",
+            "Model's Height: 5'10\"",
+            " 80% viscose, 20% polyester",
+            " Hand wash in cold water, hang to dry",
+            "Do not bleach."
+        ]
+    },
+    "Suzy Shier Pull-on Ankle Pants": {
+        "color": {
+            "Black": [
+                "X-Small",
+                "Small",
+                "Medium",
+                "Large"
+            ]
+        },
+        "description": "You'll love the soft twill as much as the flattering fit of these pull-on ankle pants, and they're versatile enough to dress up or down.",
+        "price": 34.0,
+        "spec": [
+            "Model's Size: XS",
+            "Model's Height: 5'10\"",
+            "76% rayon, 21% nylon, 3% spandex",
+            " Hand wash in cold water, hang to dry",
+            "Do not bleach."
+        ]
+    },
+    "Suzy Shier Pull-on Joggers with Side Stripes": {
+        "color": {
+            "Black": [
+                "X-Small",
+                "Small",
+                "Medium",
+                "X-Large"
+            ]
+        },
+        "description": "In these cool pull-on joggers, with trendy side stripes, you'll be ready for the day, whether you take on the town or the tv.",
+        "price": 28.0,
+        "spec": [
+            "Model's Size: XS",
+            "Model's Height: 5'10\"",
+            " 80% polyester, 20% cotton",
+            " Machine wash in cold water, hang to dry",
+            "Do not bleach."
+        ]
+    },
+    "Suzy Shier Pull-on Leggings with Side Stripes": {
+        "color": {
+            "Black": [
+                "X-Small",
+                "Small",
+                "Medium",
+                "Large",
+                "X-Large"
+            ],
+            "Dynasty": [
+                "X-Small",
+                "Small",
+                "Medium",
+                "Large",
+                "X-Large"
+            ]
+        },
+        "description": "These cool leggings feature athletic stripes down each side but will look just as great with sexy heels as with sneakers.",
+        "price": 21.99,
+        "spec": [
+            "Model's Size: XS",
+            "Model's Height: 5'10\"",
+            "60% rayon, 35% nylon, 5% spandex",
+            " Machine wash in cold water, hang to dry",
+            "Do not bleach"
+        ]
+    },
+    "Suzy Shier Pull-on Pants with V Waistband": {
+        "color": {
+            "Dk Grey": [
+                "X-Small",
+                "Small",
+                "Medium",
+                "Large"
+            ]
+        },
+        "description": "Belts be gone when you have the stylish V-front waistband on these pull-on skinny pants to show off.",
+        "price": 19.99,
+        "spec": [
+            "Model's Size: XS",
+            "Model's Height: 5'10\"",
+            " 48% polyester, 26% rayon, 23% nylon, 3% spandex",
+            " Hand wash in cold water, hang to dry",
+            "Do not bleach."
+        ]
+    },
+    "Suzy Shier Pull-on Pants with Zipper Detailing": {
+        "color": {
+            "Black": [
+                "X-Small",
+                "Small",
+                "Medium",
+                "Large",
+                "X-Large"
+            ]
+        },
+        "description": "You'll love the smooth feel against your skin as much as the stylish look in the mirror when you wear these chic pull-on pants with vertical zipper detailing.",
+        "price": 19.99,
+        "spec": [
+            "Model's Size: XS",
+            "Model's Height: 5'10\"",
+            "70% rayon, 27% nylon, 3% spandex",
+            " Machine wash in cold water, hang to dry",
+            "Do not bleach"
+        ]
+    },
+    "Suzy Shier Pull-on Scuba Leopard Print Pants": {
+        "color": {
+            "Brown": [
+                "X-Small",
+                "Small",
+                "Medium",
+                "Large",
+                "X-Large"
+            ]
+        },
+        "description": "All eyes will be on you when you strut your stuff in these hot, pull-on leopard print pants.",
+        "price": 17.99,
+        "spec": [
+            "Model's Size: XS",
+            "Model's Height: 5'10\"",
+            " 95% polyester, 5% spandex",
+            " Hand wash in cold water, hang to dry",
+            "Do not bleach."
+        ]
+    },
+    "Suzy Shier Pull-on Skinny Jeans": {
+        "color": {
+            "Black Rinse": [
+                "X-Small",
+                "Small",
+                "Medium",
+                "Large",
+                "X-Large"
+            ],
+            "Dk Denim Blue": [
+                "X-Small",
+                "Small",
+                "Medium",
+                "Large",
+                "X-Large"
+            ],
+            "Md Denim Blasted": [
+                "X-Small",
+                "Small",
+                "Medium",
+                "Large",
+                "X-Large"
+            ]
+        },
+        "description": "These comfy pull-on jeans give you the flattering, skinny fit that you must have in your closet.",
+        "price": 19.99,
+        "spec": [
+            "Model's Size: XS",
+            "Model's Height: 5'10\"",
+            "71% cotton, 27% polyester, 2% spandex",
+            " Machine wash in cold water, hang to dry",
+            "Do not bleach"
+        ]
+    },
+    "Suzy Shier Pull-on Skinny Pants": {
+        "color": {
+            "Black": [
+                "Small",
+                "Large"
+            ],
+            "Dk Green": [
+                "Small",
+                "Medium",
+                "Large",
+                "X-Large"
+            ],
+            "Mushroom": [
+                "Small",
+                "Medium",
+                "Large",
+                "X-Large"
+            ]
+        },
+        "description": "In the perfect, skinny leg fit, and in a variety of colors to go with all your outfits, these really are the pull-on pants for every occasion.",
+        "price": 19.99,
+        "spec": [
+            "Model's Size: S",
+            "Model's Height: 5'10\"",
+            " 72% cotton, 23% rayon, 5% spandex",
+            " Machine wash in cold water, hang to dry",
+            "Do not bleach."
+        ]
+    },
+    "Suzy Shier Pull-on Skinny Pants with Side Buckle": {
+        "color": {
+            "Ivy": [
+                "X-Small",
+                "Small",
+                "Medium",
+                "Large",
+                "X-Large"
+            ]
+        },
+        "description": "Your go-to skinny pants are now that much more stylish thanks to the chic side buckle on this trendy design.",
+        "price": 39.0,
+        "spec": [
+            "Model's Size: XS",
+            "Model's Height: 5'10\"",
+            "70% rayon, 26% nylon, 4% spandex",
+            " Hand wash in cold water, hang to dry",
+            "Do not bleach"
+        ]
+    },
+    "Suzy Shier Pull-on Skinny Pants with Zipper Pockets": {
+        "color": {
+            "Black": [
+                "X-Small",
+                "Small",
+                "Medium",
+                "Large"
+            ],
+            "Dk Green": [
+                "X-Small",
+                "Small",
+                "Medium",
+                "Large",
+                "X-Large"
+            ]
+        },
+        "description": "Show off all your cute tops with these classic bottoms; chic skinny pants with trendy vertical zip pockets.",
+        "price": 36.0,
+        "spec": [
+            "Model's Size: XS",
+            "Model's Height: 5'10\"",
+            " 69% rayon, 27% nylon, 4% spandex",
+            " Machine wash in cold water, hang to dry",
+            "Do not bleach."
+        ]
+    },
+    "Suzy Shier Push-up Skinny Jeans": {
+        "color": {
+            "Dk Denim Blue": [
+                "1",
+                "11"
+            ]
+        },
+        "description": "Need an extra boost in your caboose? These super straight skinny jeans give you a push-up fit for the most flattering denim you'll own.",
+        "price": 39.0,
+        "spec": [
+            "Model's Size: 3",
+            "Model's Height: 5'10\"",
+            "75% cotton, 23% polyester, 2% spandex",
+            "Machine wash in cold water, hang to dry",
+            "Do not bleach"
+        ]
+    },
+    "Suzy Shier Ruffled Front Skirt with Back Flounce": {
+        "color": {
+            "Black": [
+                "X-Small",
+                "Small",
+                "Medium",
+                "Large",
+                "X-Large"
+            ]
+        },
+        "description": "Show off your sleek side in this chic skirt, but we didn't forget your flirty side, which is why we added a sweet ruffled front and back flounce to the hem. It features a back zip and inside elastic for the perfect fit.",
+        "price": 34.0,
+        "spec": [
+            "Model's Size: XS",
+            "Model's Height: 5'10\"",
+            "96% polyester, 4% spandex",
+            " Machine wash in cold water, hang to dry",
+            "Do not bleach"
+        ]
+    },
+    "Suzy Shier Sashed Crepe Pull-on Pants with Wide Legs": {
+        "color": {
+            "Black": [
+                "X-Small",
+                "Small",
+                "Medium",
+                "X-Large"
+            ]
+        },
+        "description": "Skinnies are great, but for a classier style, sport these wide-legged crepe pants with a stylish sash.",
+        "price": 34.0,
+        "spec": [
+            "Model's Size: XS",
+            "Model's Height: 5'10\"",
+            "95% polyester, 5% spandex",
+            " Hand wash in cold water, hang to dry",
+            "Do not bleach"
+        ]
+    },
+    "Suzy Shier Sashed Glencheck Hi Low Skirt": {
+        "color": {
+            "Black": [
+                "Large"
+            ]
+        },
+        "description": "A chic print makes all the difference, and the classy glencheck plaid on this hi low skirt will create a stunning outfit with a bold tee or sweater.",
+        "price": 34.0,
+        "spec": [
+            "Model's Size: XS",
+            "Model's Height: 5'10\"",
+            "65% polyester, 35% rayon",
+            " Machine wash in cold water, hang to dry",
+            "Do not bleach"
+        ]
+    },
+    "Suzy Shier Sashed Herringbone Pants with Pleats": {
+        "color": {
+            "Black": [
+                "X-Small",
+                "Small",
+                "Medium",
+                "Large",
+                "X-Large"
+            ]
+        },
+        "description": "Get a professional look in a flash with these classy, herringbone print pants, with an elastic waist in the back, pleats and a sash.",
+        "price": 19.99,
+        "spec": [
+            "Model's Size: XS",
+            "Model's Height: 5'10\"",
+            " 97% polyester, 3% spandex",
+            " Machine wash in cold water, hang to dry",
+            "Do not bleach."
+        ]
+    },
+    "Suzy Shier Sashed Paperbag Ankle Pants": {
+        "color": {
+            "Black": [
+                "1",
+                "3",
+                "5",
+                "7",
+                "9",
+                "11",
+                "13",
+                "15"
+            ],
+            "Copper": [
+                "1",
+                "3",
+                "5",
+                "7",
+                "9",
+                "11",
+                "13",
+                "15"
+            ]
+        },
+        "description": "You have never looked trendier than in these must-have paperbag ankle pants, featuring a convenient sashed front.",
+        "price": 36.0,
+        "spec": [
+            "Model's Size: 3",
+            "Model's Height: 5'10\"",
+            "63% polyester, 34% rayon, 3% spandex",
+            " Hand wash in cold water, hang to dry",
+            "Do not bleach"
+        ]
+    },
+    "Suzy Shier Sashed Pencil Skirt with Button Front": {
+        "color": {
+            "Black": [
+                "Small",
+                "Medium",
+                "Large"
+            ],
+            "Ivy": [
+                "Small",
+                "Medium",
+                "Large"
+            ]
+        },
+        "description": "The flattering fit of this sashed pencil skirt is further complemented by the chic front button detailing.",
+        "price": 36.0,
+        "spec": [
+            "Model's Size: XS",
+            "Model's Height: 5'10\"",
+            "70% rayon, 26% nylon, 4% spandex",
+            " Machine wash in cold water, hang to dry",
+            "Do not bleach"
+        ]
+    },
+    "Suzy Shier Sashed Pleated Ankle Pants": {
+        "color": {
+            "Black": [
+                "X-Small",
+                "Small",
+                "Medium",
+                "Large",
+                "X-Large"
+            ]
+        },
+        "description": "You'll love the laidback vibe these comfy sashed ankle pants, with a chic pleated front, give you.",
+        "price": 19.99,
+        "spec": [
+            "Model's Size: XS",
+            "Model's Height: 5'10\"",
+            "95% polyester, 5% spandex",
+            " Hand wash in cold water, hang to dry",
+            "Do not bleach"
+        ]
+    },
+    "Suzy Shier Sashed Pleated Crepe Ankle Pants": {
+        "color": {
+            "Black": [
+                "X-Small",
+                "Small"
+            ]
+        },
+        "description": "Whether you throw on comfy sandals or sexy heels, your look will rock with these trendy, crepe ankle pants with front pleats and a sash.",
+        "price": 19.99,
+        "spec": [
+            "Model's Size: XS",
+            "Model's Height: 5'10\"",
+            " 95% polyester, 5% spandex",
+            " Lining: 100% polyester",
+            " Hand wash in cold water, hang to dry",
+            "Do not bleach."
+        ]
+    },
+    "Suzy Shier Seamless Bermuda Leggings": {
+        "color": {
+            "Black": [
+                "Small",
+                "Medium"
+            ],
+            "White": [
+                "Small",
+                "Medium",
+                "Large"
+            ]
+        },
+        "description": "Wear these seamless Bermuda cut leggings on their own, or under a skater dress during a windy day!",
+        "price": 9.99,
+        "spec": [
+            "Model's Size: XS",
+            "Model's Height: 5'10\"",
+            "92% nylon, 8% spandex",
+            "Machine wash in cold water, hang to dry",
+            "Do not bleach"
+        ]
+    },
+    "Suzy Shier Seamless Capri Leggings with Lace Trim": {
+        "color": {
+            "Black": [
+                "Small",
+                "Medium",
+                "Large"
+            ],
+            "Stellar": [
+                "Medium"
+            ],
+            "White": [
+                "Small",
+                "Medium",
+                "Large"
+            ]
+        },
+        "description": "With a wide waist and a seamless fit, these capri leggings almost don't even need the flirty lace trim to become your new favorite pair.",
+        "price": 9.99,
+        "spec": [
+            "Model's Size: S",
+            "Model's Height: 5'10\"",
+            "92% nylon, 8% spandex",
+            " Machine wash in cold water, hang to dry",
+            "Do not bleach"
+        ]
+    },
+    "Suzy Shier Seamless Fleece Lined Leggings": {
+        "color": {
+            "Black": [
+                "S/M",
+                "L/XL"
+            ],
+            "Dk Green": [
+                "S/M",
+                "L/XL"
+            ]
+        },
+        "description": "Keep wearing your favorite tunic tops all winter when you have these warm and cozy, fleece lined leggings with a seamless fit to pair with them.",
+        "price": 12.99,
+        "spec": [
+            "Model's Size: S-M",
+            "Model's Height: 5'10\"",
+            "95% polyester, 5% spandex",
+            " Machine wash in cold water, hang to dry",
+            "Do not bleach"
+        ]
+    },
+    "Suzy Shier Seamless High-waisted Leggings": {
+        "color": {
+            "Black": [
+                "Small",
+                "Medium",
+                "Large"
+            ]
+        },
+        "description": "Combine a seamless fit with a flattering physique in these comfy leggings. The high waist will accent your silhouette and keep you feeling stylish throughout your day.",
+        "price": 9.99,
+        "spec": [
+            "Model's Size: S",
+            "Model's Height: 5'10\"",
+            " 92% nylon, 8% spandex",
+            " Machine wash in cold water, hang to dry",
+            "Do not bleach."
+        ]
+    },
+    "Suzy Shier Side Striped Skinny Pants with Exposed Front Zipper": {
+        "color": {
+            "Black": [
+                "X-Small",
+                "Small",
+                "Medium",
+                "Large",
+                "X-Large"
+            ]
+        },
+        "description": "We're giving your classic skinny pants a trendy overhaul by adding retro side stripes and a chic, exposed front zipper to the design.",
+        "price": 39.0,
+        "spec": [
+            "Model's Size: XS",
+            "Model's Height: 5'10\"",
+            "68% rayon, 27% nylon, 5% spandex",
+            " Machine wash in cold water, hang to dry",
+            "Do not bleach"
+        ]
+    },
+    "Suzy Shier Skinny Glencheck Ankle Pants with Seam Details": {
+        "color": {
+            "Grey": [
+                "Small",
+                "Medium",
+                "Large",
+                "X-Large"
+            ]
+        },
+        "description": "The season is filled with classy glencheck, so elevate your look with this elegant print in these pull-on skinny ankle pants, updated with fake zip pockets and seam details.",
+        "price": 39.0,
+        "spec": [
+            "Model's Size: S",
+            "Model's Height: 5'10\"",
+            "53% polyester, 35% rayon, 9% nylon, 3% spandex",
+            " Hand wash in cold water, hang to dry",
+            "Do not bleach"
+        ]
+    },
+    "Suzy Shier Skinny Jeans with Front Hem Slit": {
+        "color": {
+            "Dk Denim Blasted": [
+                "1",
+                "11"
+            ]
+        },
+        "description": "For a little twist on a trendy touch, these cool skinny jeans have their slits in the front of the hems.",
+        "price": 39.0,
+        "spec": [
+            "Model's Size: 3",
+            "Model's Height: 5'10\"",
+            "98% cotton, 2% spandex",
+            "Machine wash in cold water, hang to dry",
+            "Do not bleach."
+        ]
+    },
+    "Suzy Shier Skinny Jeans with Wide Patterned Belt": {
+        "color": {
+            "Dk Denim Blasted": [
+                "1",
+                "3",
+                "5",
+                "7",
+                "9",
+                "11",
+                "13"
+            ]
+        },
+        "description": "Not only will you love the smooth fit of these skinny jeans, but the wide, patterned belt that comes with them will give your outfit a trendier twist.",
+        "price": 49.0,
+        "spec": [
+            "Model's Size: 3",
+            "Model's Height: 5'10\"",
+            "70% cotton, 28% polyester, 2% spandex",
+            "Remove belt before machine wash in cold water, hang to dry",
+            "Do not bleach"
+        ]
+    },
+    "Suzy Shier Skinny Pants with Diagonal Zip Pockets": {
+        "color": {
+            "Black": [
+                "X-Small",
+                "Small",
+                "Medium",
+                "Large",
+                "X-Large"
+            ],
+            "Charcoal": [
+                "X-Small",
+                "Small",
+                "Medium",
+                "Large",
+                "X-Large"
+            ]
+        },
+        "description": "Time to put those shorts away, but you won't mind when you look great in the flattering fit of these skinny pants, featuring diagonal front zip pockets and seam detailing.",
+        "price": 36.0,
+        "spec": [
+            "Model's Size: XS",
+            "Model's Height: 5'10\"",
+            " 68% rayon, 27% nylon, 5% spandex",
+            " Machine wash in cold water, hang to dry",
+            "Do not bleach."
+        ]
+    },
+    "Suzy Shier Skinny Pull-on Ankle Pants with Vertical Pockets": {
+        "color": {
+            "Black": [
+                "Small",
+                "Medium",
+                "Large",
+                "X-Large"
+            ]
+        },
+        "description": "You need a great fit on an ankle pant that you can wear for all occasions, and this pull-on design, with stylish vertical welt pockets, is the perfect choice.",
+        "price": 34.0,
+        "spec": [
+            "Model's Size: S",
+            "Model's Height: 5'10\"",
+            " 96% polyester, 4% spandex",
+            " Hand wash in cold water, hang to dry",
+            "Do not bleach."
+        ]
+    },
+    "Suzy Shier Slim Velour Joggers with Drawstring": {
+        "color": {
+            "Merlot": [
+                "X-Small",
+                "Small",
+                "Medium",
+                "Large",
+                "X-Large"
+            ]
+        },
+        "description": "Be warned that when you slip on these soft, cozy velour joggers with a convenient drawstring, you'll be more inclined to cuddle up than go for an actual jog.",
+        "price": 28.0,
+        "spec": [
+            "Model's Size: XS",
+            "Model's Height: 5'10\"",
+            "95% polyester, 5% spandex",
+            "Ribbing: 65% polyester, 35% cotton",
+            " Machine wash in cold water, hang to dry",
+            "Do not bleach"
+        ]
+    },
+    "Suzy Shier Slim Velour Joggers with Side Stripes": {
+        "color": {
+            "Black": [
+                "X-Small",
+                "Small",
+                "Medium",
+                "Large",
+                "X-Large"
+            ]
+        },
+        "description": "Be warned that when you slip on these soft, cozy velour joggers with contrast side stripes, you'll be more inclined to cuddle up than go for an actual jog.",
+        "price": 28.0,
+        "spec": [
+            "29\" in-seam",
+            "Model's Size: XS",
+            "Model's Height: 5'10\"",
+            "95% polyester, 5% spandex",
+            " Machine wash in cold water, hang to dry",
+            "Do not bleach"
+        ]
+    },
+    "Suzy Shier Striped Pants with Multicolored Taping": {
+        "color": {
+            "Black": [
+                "X-Small",
+                "Small",
+                "Medium",
+                "Large",
+                "X-Large"
+            ]
+        },
+        "description": "Stripe up those legs and get a trendy vibe in these skinny pants with multicolored taping on the sides of the legs.",
+        "price": 19.99,
+        "spec": [
+            "Model's Size: XS",
+            "Model's Height: 5'10\"",
+            "65% polyester, 30% rayon, 5% spandex",
+            " Hand wash in cold water, hang to dry",
+            "Do not bleach"
+        ]
+    },
+    "Suzy Shier Striped Pleated Pull-on Pants": {
+        "color": {
+            "Dk Grey": [
+                "X-Small",
+                "Medium",
+                "Large",
+                "X-Large"
+            ]
+        },
+        "description": "Create a trendy look with these chic striped pants with flattering front pleats and an elastic waist which can easily be dressed up for work or down for play.",
+        "price": 36.0,
+        "spec": [
+            "Model's Size: XS",
+            "Model's Height: 5'10\"",
+            " 62% polyester, 33% rayon, 5% spandex",
+            "Lining: 100% polyester ",
+            " Hand wash in cold water, hang to dry",
+            "Do not bleach."
+        ]
+    },
+    "Suzy Shier Striped Straight Leg Pants": {
+        "color": {
+            "Black": [
+                "X-Small",
+                "Small",
+                "Medium",
+                "Large",
+                "X-Large"
+            ]
+        },
+        "description": "The flattering, lengthening effect of the stripes on these pull-on pants make them a go-to summer staple.",
+        "price": 14.95,
+        "spec": [
+            "Model's Size: XS",
+            "Model's Height: 5'10\"",
+            "100% polyester",
+            " Hand wash in cold water, hang to dry",
+            "Do not bleach"
+        ]
+    },
+    "Suzy Shier V-front Pull-on Skinny Pants": {
+        "color": {
+            "Black": [
+                "X-Small",
+                "Small",
+                "Medium",
+                "Large",
+                "X-Large"
+            ]
+        },
+        "description": "Give your belt a break and flaunt the stylish v-front on the waistband of these skinnies instead.",
+        "price": 19.99,
+        "spec": [
+            "Model's Size: XS",
+            "Model's Height: 5'10\"",
+            "76% rayon, 21% nylon, 3% spandex",
+            " Hand wash in cold water, hang to dry",
+            "Do not bleach"
+        ]
+    },
+    "Suzy Shier Wide Leg Jeans": {
+        "color": {
+            "Dk Denim Blue": [
+                "1",
+                "3",
+                "5",
+                "7",
+                "9",
+                "11",
+                "13"
+            ]
+        },
+        "description": "Nothing beats a classic, wide leg pant for a sleek style that your skinnies can't match. Dress them up with an elegant blouse or get a cooler vibe with a pair of sneakers and a tee.",
+        "price": 49.0,
+        "spec": [
+            "Model's Size: XS",
+            "Model's Height: 5'10\"",
+            "74% cotton, 25% polyester, 1% spandex",
+            " Machine wash in cold water, hang to dry",
+            "Do not bleach"
+        ]
+    },
+    "Suzy Shier Wide Waist Leggings": {
+        "color": {
+            "Black": [
+                "Small",
+                "Medium",
+                "Large"
+            ],
+            "Charcoal": [
+                "Small",
+                "Medium",
+                "Large"
+            ],
+            "Stellar": [
+                "Small",
+                "Medium",
+                "Large",
+                "Tr\u00e8s grand"
+            ]
+        },
+        "description": "Lounge comfortably in all colors with this great selection of cozy wide waist leggings.",
+        "price": 9.99,
+        "spec": [
+            "Model's Size: XS",
+            "Model's Height: 5'10\"",
+            "90% cotton, 10% spandex",
+            " Machine wash in cold water, hang to dry",
+            "Do not bleach"
+        ]
+    },
+    "Suzy Shier Wide Waisted Leggings": {
+        "color": {
+            "Black": [
+                "Small",
+                "Medium",
+                "Large"
+            ]
+        },
+        "description": "Lounge comfortably in all colors with this great selection of cozy leggings with a flattering wide waist.",
+        "price": 9.99,
+        "spec": [
+            "Model's Size: S",
+            "Model's Height: 5'10\"",
+            " 90% cotton, 10% spandex",
+            " Machine wash in cold water, hang to dry",
+            "Do not bleach."
+        ]
+    },
+    "Suzy Shier Wide-waisted Pencil Skirt": {
+        "color": {
+            "Black": [
+                "X-Small",
+                "Small",
+                "Medium",
+                "Large"
+            ]
+        },
+        "description": "For a sexy look and a flattering, wide-waisted fit, you'll love the versatility of this body-hugging pull-on pencil skirt.",
+        "price": 24.0,
+        "spec": [
+            " 21\" ",
+            "Model's Size: XS",
+            "Model's Height: 5'10\"",
+            "74% rayon, 22% nylon, 4% spandex",
+            " Hand wash in cold water, hang to dry",
+            "Do not bleach"
+        ]
+    }
+}
