@@ -33,18 +33,18 @@ for link in links:
     title = parse_title(driver)
     exclusive_category[title] = {}
 
-    # check if discount prize is present
+    # check if discount price is present
     try:
         discount = driver.find_element_by_css_selector("span.product__price.product__discount").get_attribute(
             "innerText")
         exclusive_category[title]["discount_price"] = float(discount[1:])    # only integer
-        compare_prize = driver.find_element_by_css_selector("span.product__compare-at").get_attribute(
+        compare_price = driver.find_element_by_css_selector("span.product__compare-at").get_attribute(
             "innerText")
-        exclusive_category[title]["prize"] = float(compare_prize[1:])
+        exclusive_category[title]["price"] = float(compare_price[1:])
 
     except(NoSuchElementException):
         exclusive_category[title]["discount_price"] = None
-        exclusive_category[title]["prize"] = parse_prize(driver)
+        exclusive_category[title]["price"] = parse_price(driver)
 
 
 driver.close()

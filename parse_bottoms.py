@@ -53,7 +53,7 @@ for link in links:
     title = parse_title(driver)
     bottoms_category[title] = {}
 
-    bottoms_category[title]["price"] = parse_prize(driver)
+    bottoms_category[title]["price"] = parse_price(driver)
     bottoms_category[title]["description"] = parse_description(driver)
     bottoms_category[title]["spec"] = parse_spec(driver)
     bottoms_category[title]["color"] = parse_color_size(driver)

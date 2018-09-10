@@ -16,7 +16,7 @@ def parse_title(driver):
     title = driver.find_element_by_css_selector("h1.header.product__header")
     return title.get_attribute("innerText")
 
-def parse_prize(driver):
+def parse_price(driver):
     pricce_div = driver.find_element_by_css_selector("div.product__price-wrapper")
     price = int(pricce_div.get_attribute("data-product-price")) / 100
     return price
@@ -46,17 +46,5 @@ def parse_color_size(driver):
         color_dict[colour] = get_sizes(driver)
     return color_dict
 
-def parse_discount(driver, title, data_dict):
 
-    price_div = driver.find_element_by_css_selector("div.product__price-wrapper")
-
-
-    try:
-        discount = driver.find_element_by_css_selector("span.product__price.product__discount").get_attribute(
-            "innerText")
-        discount = discount[1:]  # only integer
-    except(NoSuchElementException):
-        discount = None
-    print(discount)
-    return discount
 
